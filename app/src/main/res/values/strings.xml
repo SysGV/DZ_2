@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DZ2_nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Сысоев Григорий Владимирович</string>
+    <string name="nav_header_subtitle">sysgv@yandex.ru</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Телефоны</string>
+    <string name="menu_gallery">Планшеты</string>
+    <string name="menu_slideshow">Смарт часы</string>
+</resources>
